@@ -1,20 +1,20 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "botAfk1",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "HeadSmp-Ak1T.aternos.me",
+    "port": 25001,
+    "version": "1.21.1"
   },
 
   "position": {
     "enabled": false,
     "x": 0,
-    "y": 0,
+    "y": -1000,
     "z": 0
   },
 
